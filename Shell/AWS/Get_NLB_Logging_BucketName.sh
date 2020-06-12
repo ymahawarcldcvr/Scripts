@@ -13,3 +13,4 @@ else
 	echo "$loadbalancerarn","$s3enabled" >>	$outputfilename
 fi
 done
+# For testing
